@@ -345,7 +345,7 @@ public class LendingsF extends javax.swing.JPanel {
                 String pdfPath = generarPDFPrestamo(selectedUser, selectedBook);
 
                 // Enviar correo con PDF adjunto
-                String emailUsuario = "blum7490@gmail.com"; // Aquí obtendrás el correo del usuario
+                String emailUsuario = ""; // Aquí obtendrás el correo del usuario
                 enviarCorreoConAdjunto(emailUsuario, pdfPath);
 
                 JOptionPane.showMessageDialog(this, "Préstamo registrado y correo enviado exitosamente.");
