@@ -81,6 +81,7 @@ Biblioteca utilizada por javax.mail para manejar tipos de datos MIME. Facilita e
 Maven es una herramienta de automatización y gestión de proyectos para aplicaciones Java. El archivo pom.xml (Project Object Model) es el corazón de un proyecto Maven y define cómo se debe construir el proyecto, especificando tareas como la compilación, el empaquetado y el despliegue. También gestiona las dependencias necesarias para ejecutar el proyecto, como archivos .jar y bibliotecas externas.
 
 
+![image](https://github.com/user-attachments/assets/06ad6c94-fcd3-4341-bd6b-11ea9b70a467)
 
 
 https://github.com/user-attachments/assets/b169755b-e649-4cd4-ad88-49a4d3806e91
