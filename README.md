@@ -83,6 +83,17 @@ Maven es una herramienta de automatización y gestión de proyectos para aplicac
 
 ![image](https://github.com/user-attachments/assets/06ad6c94-fcd3-4341-bd6b-11ea9b70a467)
 
+![image](https://github.com/user-attachments/assets/90801fdb-f12a-4fcf-a40c-f2e71dbbc7c6)
+
+![image](https://github.com/user-attachments/assets/28b22226-1809-4652-98c4-b7b2644a3531)
+
+![image](https://github.com/user-attachments/assets/62138910-1723-4e1b-bb3f-afb04b624d8a)
+
+![image](https://github.com/user-attachments/assets/a3d1f3d7-6fa0-468c-80d5-24e27499ff4c)
+
+
+
+
 
 https://github.com/user-attachments/assets/b169755b-e649-4cd4-ad88-49a4d3806e91
 
